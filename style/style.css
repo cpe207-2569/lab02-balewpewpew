@@ -1,0 +1,106 @@
+li{
+    display: inline;
+    font-size: 25px;
+}
+h1{
+    color: deeppink;
+    font-size: 40px;
+}
+h2{
+    color: violet;
+    font-size: 30px;
+}
+h3{
+    color:rgb(253, 158, 174);
+    font-size: 25px;
+}
+h4{
+    color: lightpink;
+    font-size: 17px;
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    width: auto;
+    border-bottom: 1px solid black;
+}
+td,th{
+    height: 50px;
+    vertical-align: middle;
+}
+td{
+    padding: 10px;
+}
+th{
+    background-color: rgb(249, 215, 122);
+    border-bottom: 1px solid black;
+}
+
+.comic-neue-light {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-bold {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.comic-neue-light-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.comic-neue-regular-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comic-neue-bold-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.itim-regular {
+  font-family: "Itim" , cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#p1{
+    margin: 25px 250px;
+    padding: 25px 50px;
+    border-style: double;
+    border-width: medium;
+}
+#p2{
+    display: inline-block;
+    margin: auto;
+}
+.p3{
+    display: inline-block;
+    margin: 10px;
+}
+tr:hover{
+    background-color: burlywood;
+}
+p,div{
+    font-size: 17px;
+}
+
